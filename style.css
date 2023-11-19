@@ -35,3 +35,7 @@ hr.thin {
 table, th, td {
     width: 100%;
 }
+
+a {
+  color: inherit;
+}
